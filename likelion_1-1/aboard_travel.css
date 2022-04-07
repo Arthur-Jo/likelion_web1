@@ -1,0 +1,78 @@
+@import url('https://fonts.google.com/noto/specimen/Noto+Sans+KR?subset=korean');
+
+#mainbox{
+  width: 610px;
+  padding: 30px;
+  margin: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid #ebebeb;
+  
+}
+*{
+  background-color: rgb(34, 34, 34);
+  color: aliceblue;
+}
+
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.header{
+  border-bottom: 1px solid rgb(157, 155, 155);
+  overflow: hidden;
+}
+.flag{
+  width: 20px;
+  height: 20px;
+}
+.t1{
+  border-bottom: 1px solid rgb(157, 155, 155);
+}
+.t2{
+  border-bottom: 1px solid rgb(157, 155, 155);
+}
+.topic{
+  overflow: hidden;
+}
+.date{
+  float: right;
+
+}
+.region{
+  float: left;
+}
+.picture{
+  width: 600px;
+  height: 400px;
+}
+.id{
+  border-bottom: 1px solid rgb(157, 155, 155);
+  display: grid;
+  grid-row: auto;
+}
+.picturebox{
+  border-bottom: 1px solid rgb(157, 155, 155);
+}
+.top_option{
+  float: right;
+  margin-top: 5%;
+}
+.insta_head{
+  float: left;
+}
+
+ul{
+  list-style: none;
+  text-align: center;
+  
+}
+li{
+  float: left;
+  margin-right: 50px;
+}
+.bottom_option{
+  border-top: 1px solid rgb(157, 155, 155);
+}
